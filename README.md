@@ -201,7 +201,7 @@ The aim is to introduce innovative features, unique data visualization methods, 
 
 copy this link below to the browser to see the Architecture
 
-<img src="https://drive.google.com/file/d/1bqL80Swsdr1v02RnljYcZCPts9VYqvjZ/view?usp=sharing" alt="Architecture" style="width:104px;height:142px;">
+<img src="https://drive.google.com/file/d/1bqL80Swsdr1v02RnljYcZCPts9VYqvjZ/view" alt="Architecture" style="width:104px;height:142px;">
 
 
  APIs:
