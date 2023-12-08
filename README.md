@@ -32,14 +32,6 @@ How the weather app works
 "Empowering You with Accurate Forecasts: App Weather, Your Daily Weather Companion."
 
 
-Team 👍
-
-Names of Team Members:
-  
-Khadija Mohamed
-Mohamed Elkharashy
-Mahmoud Elbanna
-
 Roles and Responsibilities:
 
 Role: Collaborator
@@ -386,3 +378,8 @@ Considering the current pace and successful resolution of challenges, the projec
 Contingency Plans:
 While the project is progressing well, the team remains vigilant to potential challenges. A flexible approach allows for the adaptation of strategies if unexpected issues arise. Regular communication and feedback loops contribute to a dynamic development process, ensuring the project stays aligned with goals and timelines.
 Overall, the team is confident in delivering a high-quality "App Weather" project within the established timeframe, meeting both the initial project proposal goals and the defined MVP criteria. The current rating reflects the positive momentum and collective efforts contributing to the project's success.
+
+## Author
+* **Khadija Mohamed** - [Khadija Mohamed](https://github.com/Khadijamohamed99)
+* **Mahmoud Elbanna** - [Mahmoud Elbanna](https://github.com/mahmoud-elbanna)
+* **Mohamed Elkharashy** - [Mohamed Elkharashy](https://github.com/MohamedElkh)
