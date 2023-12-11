@@ -10,7 +10,7 @@ const tempreture=document.querySelector('#temp');
 const content =document.querySelector('#content');
 const date =document.querySelector('#date');
 
-const apiKey ='&appid=dea99e2c7803acdabdfa201269a2a121&units=imperial';  //i've added &units=metric For temperature in Celsius use units=metric
+const apiKey = '?' // i've added &units=metric For temperature in Celsius use units=metric
 
 // function addeventlistener to generate my function that i've added inside it 
 // the function contains (one) - the url of openweathermap with the postal code of the state that i wanted to get the temperature in it right now
